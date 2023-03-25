@@ -1,0 +1,71 @@
+body
+{
+    background-color: black;
+    
+}
+ h1{
+    display: inline;
+    font-family: Cambria, Cochin, 'Times New Roman';
+    color: white;
+    font-weight: lighter;
+}
+
+.fa-registered
+{
+    color:white;
+    position: relative;
+    bottom: 10px;
+}
+.fa-pause
+{
+    color:white;
+    position:relative;
+    rotate: 180deg;
+    left: 1080px;
+    font-size: 5px;
+    
+    
+}
+.side
+{
+    margin-top:10px;
+    
+}
+.side1
+{
+    position: relative;
+    left:800px;
+    bottom: 326px;
+}
+
+.para1
+{
+    color:white;
+    position: relative;
+    bottom:330px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 30px;
+}
+ul li
+{
+    color:white;
+    position: relative;
+    bottom:490px;
+    left: 800px;
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    
+    line-height: 5.5;
+    list-style-type: none;
+    
+}
+.para
+{
+    color:dimgray;
+    position: relative;
+    bottom:600px;
+    left: 470px;
+    font-size: small;
+
+}
